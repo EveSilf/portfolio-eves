@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Eve Silfanus' amazing portfolio",
   description: "6.1040 Fall 2024",
-  // base: "/portfolio-eves/",
+  base: "/portfolio-eves/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
