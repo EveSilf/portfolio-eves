@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Eve Silfanus"
+  text: "Software Design Portfolio"
+  tagline: "fun coding project"
   actions:
     - theme: brand
       text: Template Repository
