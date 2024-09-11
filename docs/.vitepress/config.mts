@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Eve Silfanus' amazing portfolio",
+  title: "Eve Silfanus' portfolio",
   description: "6.1040 Fall 2024",
   base: "/portfolio-eves/",
   themeConfig: {
@@ -10,12 +10,17 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "Assignments", link:"/assignments"}
     ],
 
     sidebar: [
       {
         text: "Blogs",
         link: "/blogs",
+      },
+      {
+        text: "Assignments",
+        link: "/assignments",
       },
     ],
 
