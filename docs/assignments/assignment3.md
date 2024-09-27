@@ -251,17 +251,17 @@ Community Page
 ## Design Trade-Off
 1. Specializing Quizzes\
 **Option 1:** Separate Quizzing and Posting Concepts\
-**Option 2:** Generalize Posting to include Quizzing
+**Option 2:** Generalize Posting to include Quizzing\
 I chose to keep quizzes as a separate concept from posting. While it's possible to treat quizzes as another media within the posting concept (since they appear in the feed similarly), quizzes have additional functionalities that require a distinct framework. These include multiple variables and interactions specific to quizzes, which are difficult to manage under the broader posting concept.
 
 2. Multi-Creator Posting\
 **Option 1:** Posting can only have one creator\
-**Option 2:** Posting can have multiple creators
+**Option 2:** Posting can have multiple creators\
 SnippetCollab is a feature I wanted to integrate into the app. Rather than building it separately, I realized allowing the posting concept to have multiple creators makes the design more cohesive. This approach simplifies the app architecture, making it modular and easier to manage.
 
 3. Loosening Filtering\
 **Option 1:** Combine FilterGrouping and Filtering as one concept\
-**Option 2:** Separate FilterGrouping and Filtering
+**Option 2:** Separate FilterGrouping and Filtering\
 I opted to separate FilterGrouping from Filtering. Combining them would overcomplicate the FilterGrouping feature by merging both individual and group tag filtering. Separating them ensures that each function remains clear and manageable, reducing confusion and enhancing usability.
 
 
