@@ -10,7 +10,7 @@ layout: doc
 3. [Synchronizations](#synchronizations)
 4. [Dependency Diagram](#dependency-diagram)
 5. [Wireframes](#wireframes)
-6. [Designer Trade-off](#designer-trade-off)
+6. [Design Trade-off](#design-trade-off)
 
 ## Pitch
 *Snippets* is the ultimate app for working professionals who need quick and reliable access to both work-related news and personal interests. With the *Work-Life Mode*, you can effortlessly toggle between work and personal content, depending on your focus. This feature ensures that whether you’re in the middle of a busy workday or relaxing during your downtime, *Snippets* provides a customized feed that aligns with your needs. In addition, you are able to make custom modes!
