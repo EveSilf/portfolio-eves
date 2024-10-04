@@ -82,5 +82,5 @@ answer: Quiz --> one Option
 ![Data Model Diagram](/assets/ModelDiagram.png)
 
 ## Backend Links
-![Vercel](https://a4-eosin.vercel.app/)
-![Codebase](https://github.com/EveSilf/A4)
+[Vercel](https://a4-eosin.vercel.app/)
+[Codebase](https://github.com/EveSilf/A4)
