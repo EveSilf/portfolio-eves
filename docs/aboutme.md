@@ -16,4 +16,7 @@ layout: doc
 
   <strong>A picture of me with my friends :)</strong>  
   <img src="/assets/friends.jpg" alt="Me and friends" style="width: 200px;" />
+
+  # FAQ
+  
 </div>
