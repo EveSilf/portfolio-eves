@@ -125,9 +125,8 @@ delete(g: Group)
 
 **State:** 
 ```
-Tags: set String
-Name: Tag --> one String
-Posts: set Post
+author: one String
+name: one String
 ```
 **Actions:**
 ```
@@ -143,7 +142,7 @@ filter(tags: Tags, all: Posts, out p: Posts)
 
 6. FilterGrouping[Tags]
 
-**Purpose:** Allows user to create different filter groupings (modes) and view them separately.
+**Purpose:** Allows user to create different groups of filters. This way, users can separate different filters for different purposes, such as the work and life mode. 
 
 **Principle:** A user can choose to create their own mode by selecting a name and tags for that mode.
 
