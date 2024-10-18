@@ -64,6 +64,6 @@ Weaknesses:
 - The quiz interaction in the current design doesn't specify how the user would be informed that they answered the quiz correctly. I would need to add a submit button and have the radio button color change to green if correct, or fill in the correct radio button with red. 
 
 ## Frontend Links
-[Vercel](https://a4-eosin.vercel.app/)
+[Vercel](https://frontend-starter-seven.vercel.app/)
 
-[Codebase](https://github.com/EveSilf/A4)
+[Codebase](https://github.com/EveSilf/frontend-starter)
